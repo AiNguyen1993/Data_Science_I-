@@ -4,3 +4,5 @@ COSC 3337, University of Houston
 
 - Which variables are significant in predicting the price of a car
 - How well those variables describe the price of a car
+
+• Homework 2: Performing exploratory data analysis and predict if a person is prone to a heart attack (0 or 1). 
